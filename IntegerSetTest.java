@@ -54,7 +54,7 @@ public class IntegerSetTest {
             failed++;
         }
 
-        // Test 5: การแทรกข้อมูล
+        // Test 5: การเพิ่มข้อมูลต่อท้าย
         System.out.println("\n--- Testing contains() ---");
         set.add(4); 
         set.add(5); 
