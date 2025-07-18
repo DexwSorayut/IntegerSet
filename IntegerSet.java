@@ -1,5 +1,4 @@
 import java.util.ArrayList;
-import java.util.Collections;
 
 /**
  * ADT ที่เก็บ Integer แบบเรียงลำดับจากน้อยไปมาก โดยไม่ซ้ำกัน
